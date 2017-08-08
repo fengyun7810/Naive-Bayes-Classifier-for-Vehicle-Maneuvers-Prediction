@@ -9,7 +9,7 @@ This can likely be improved, but a python envirnment is a better medium for esta
 
 I didn't include images because I don't know if I can share that!
 
-I coded the classifier.cpp with the constrain of two functions given in the classifer.h file.
+I coded the classifier.cpp with the constrain of two functions given in the classifier.h file.
 
 The following is the problem description from the Udacity Quiz:
 
