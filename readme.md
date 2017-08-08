@@ -31,5 +31,5 @@ The following is the problem description from the Udacity Quiz:
 >(del)​d
 
 >​
-​​>
+
 >You also know the lane width is 4 meters (this might be helpful in engineering features for your algorithm).
